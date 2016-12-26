@@ -1,2 +1,2 @@
-# Data-NaryTree-Perl6
+# Data::N-aryTree
 n-ary tree class with examples
